@@ -1,0 +1,8 @@
+finnhub-python
+pymongo
+sqlalchemy==1.4.46
+textblob
+apache-airflow==2.8.4
+pandas==2.1.4
+psycopg2-binary
+python-dotenv
